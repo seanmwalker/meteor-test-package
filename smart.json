@@ -1,0 +1,9 @@
+{
+  "name": "test-package",
+  "description": "A test package with no dependencies - please do not use this, its just a placeholder.",
+  "homepage": "https://github.com/seanmwalker/meteor-test-package",
+  "author": "Sean Walker",
+  "version": "0.0.1",
+  "git": "https://github.com/seanmwalker/meteor-test-package.git",
+  "packages": {}
+}
